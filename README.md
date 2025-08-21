@@ -318,11 +318,15 @@ EMBEDDING_MODEL=models/text-embedding-004
 
 ## Capturas de Pantalla
 
-![2025-08-2020-44-33-Trim-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/951ba773-afd2-491a-91f4-32453ca4112f)
+<img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/087ac6b2-e58e-4c52-a3f9-468b6d1bf127" />
 
 
 
 
+
+
+
+![2025-08-2020-44-33-Trim-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/f0d85cab-cf9e-49fe-875f-b22c52f00506)
 
 
 
