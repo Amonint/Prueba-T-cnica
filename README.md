@@ -318,14 +318,13 @@ EMBEDDING_MODEL=models/text-embedding-004
 
 ## Capturas de Pantalla
 
-*Nota: Las capturas de pantalla deben agregarse en esta sección mostrando:*
+![2025-08-2020-44-33-Trim-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/951ba773-afd2-491a-91f4-32453ca4112f)
 
-1. **Pantalla principal** con interfaz de carga de documentos
-2. **Proceso de carga** de documentos con feedback visual
-3. **Lista de documentos** cargados exitosamente
-4. **Búsqueda semántica** con resultados y relevancia
-5. **Sistema de Q&A** con respuestas estructuradas y citas
-6. **Popover de citas** mostrando detalles del fragmento fuente
+
+
+
+
+
 
 
 
